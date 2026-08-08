@@ -12,7 +12,7 @@ st.set_page_config(
     layout="wide"
 )
 
-API_URL = "http://127.0.0.1:8000/predict"
+API_URL = "https://nyc-airbnb-room-type-predictor-wbmp.onrender.com/predict"
 
 
 # =========================================================
