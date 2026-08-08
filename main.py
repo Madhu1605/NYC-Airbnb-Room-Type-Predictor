@@ -26,7 +26,7 @@ COLUMNS = [
     "neighbourhood",
 ]
 
-model = joblib.load("Model_Pipeline.pkl")
+model = joblib.load("Model_pipeline.pkl")
 
 
 class Features(BaseModel):
